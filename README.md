@@ -1,6 +1,6 @@
 # California House Price Prediction
 
-This is my Kaggle project for the **California House Prices** competition. The goal of this project is to predict house sale prices using real estate features such as property type, location, size, school information, tax information, and listing history.
+This project is based on the **California House Prices** competition. The goal of this project is to predict house sale prices using real estate features such as property type, location, size, school information, tax information, and listing history.
 
 ## Project Overview
 
