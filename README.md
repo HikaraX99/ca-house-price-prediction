@@ -8,9 +8,7 @@ In this project, I built a MLP model using **PyTorch** to predict California hou
 
 ## Dataset
 
-The dataset is from the Kaggle competition:
-
-[California House Prices](https://www.kaggle.com/competitions/california-house-prices/overview)
+The dataset is from the Kaggle competition: [California House Prices](https://www.kaggle.com/competitions/california-house-prices/overview)
 
 The training set contains **47,439 rows and 41 columns**, including the target column `Sold Price`.
 
