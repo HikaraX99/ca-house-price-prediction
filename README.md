@@ -89,7 +89,7 @@ Average validation log RMSE: 0.2358
 
 The final model achieved a training log RMSE of around **0.2113** before generating the submission file.
 
-## Result
+## Submission Result
 <img width="1154" height="140" alt="image" src="https://github.com/user-attachments/assets/f58ced1f-c195-44f3-8595-6785a253bcc9" />
 
 
